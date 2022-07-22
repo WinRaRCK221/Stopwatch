@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: orange;
+}
+.subte {
+  width: 860px;
+  border: 3px solid white;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  color: white;
+}
+.tome {
+  font-size: 100px;
+}
